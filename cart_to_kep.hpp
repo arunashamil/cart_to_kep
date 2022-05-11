@@ -1,7 +1,3 @@
-//
-// Created by alexander on 11.05.22.
-//
-
 #ifndef MY_PROJECT_CART_TO_KEP_HPP
 #define MY_PROJECT_CART_TO_KEP_HPP
 // Cartesian to keplerian
